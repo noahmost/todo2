@@ -7,9 +7,13 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title></title>
+        <title>To do list 2</title>
+        <link rel="stylesheet" type="text/css" href="css/main.css">
     </head>
     <body>
+        <div class="wrap">
+            
+        </div>
         <?php
         // put your code here
         ?>
